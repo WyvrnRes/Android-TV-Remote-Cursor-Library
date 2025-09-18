@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "TVBrowser"
-include(":app")
+rootProject.name = "TVRemoteCursorLibrary"
+include(":library")
+include(":sample")
